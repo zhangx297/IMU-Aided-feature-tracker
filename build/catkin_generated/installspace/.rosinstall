@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zxt/catkin_IMU-Aided/install/setup.sh

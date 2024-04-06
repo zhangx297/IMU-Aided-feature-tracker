@@ -1,0 +1,2 @@
+IMU-aided_feature_tracking/camera_model:IMU-aided_feature_tracking/feature_tracker
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/zxt/catkin_IMU-Aided/devel -DCMAKE_INSTALL_PREFIX=/home/zxt/catkin_IMU-Aided/install -G Unix Makefiles

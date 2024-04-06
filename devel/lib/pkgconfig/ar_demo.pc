@@ -1,0 +1,8 @@
+prefix=/home/zxt/catkin_IMU-Aided/devel
+
+Name: ar_demo
+Description: Description of ar_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
